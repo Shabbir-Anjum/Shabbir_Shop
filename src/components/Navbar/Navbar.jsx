@@ -21,7 +21,7 @@ const Navbar = () => {
             <div className="hidden xl:flex gap-6 text-base font-semibold">
               <div className="flex">
                 <div>
-                  <img className="w-8 mt-1" src="/images/flag.webp" alt="" />
+                  <img className="w-8 mt-1" src="../images/pak.png" alt="" />
                 </div>
                 <div>
                   <KeyboardArrowDownIcon />
